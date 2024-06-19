@@ -14,7 +14,7 @@ void main() { //async
 // var box = await Hive.openBox<String>('myBox');
 
 
-//   runApp(const MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
